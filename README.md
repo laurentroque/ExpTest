@@ -1,3 +1,0 @@
-# ExpTest
-ExpNameData test
-test
